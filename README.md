@@ -4,7 +4,7 @@ A crypto currency price checking app.
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
 
-## What you will learn
+## Customizations
 
 - Using DropdownButton Widget from Material design.
 - Using use Cupertino Widgets in your app.
